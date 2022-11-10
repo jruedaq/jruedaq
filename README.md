@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jruedaq
+- 👀 I’m interested in Cloud, secirity and backend develop
+- 🌱 I’m currently learning games development
+- 💞️ I’m looking to collaborate on open source projects based on PHP or Java
+- 📫 How to reach me in [www.juandavid.dev](www.juandavid.dev)
